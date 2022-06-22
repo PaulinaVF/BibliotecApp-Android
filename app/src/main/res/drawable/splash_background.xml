@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list android:opacity="opaque"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@color/biblio_yellow"/>
+
+    <item
+        android:left="25dp"
+        android:right="25dp"
+        android:top="225dp"
+        android:bottom="225dp">
+        <bitmap android:src="@drawable/bookapp">
+
+        </bitmap>
+    </item>
+
+</layer-list>
